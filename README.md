@@ -1,2 +1,2 @@
 # Simon-Says
-I Made Game Simon-Says.
+I Made Simon-Says Game using HTML, CSS & JavaScript.
